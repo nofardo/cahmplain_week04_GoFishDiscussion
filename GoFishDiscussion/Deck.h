@@ -31,6 +31,8 @@ public:
 			}
 		}
 
+		Shuffle();
+
 		isEmpty = false;
 	}
 
